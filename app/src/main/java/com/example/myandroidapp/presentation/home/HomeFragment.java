@@ -1,4 +1,4 @@
-package com.example.myandroidapp.ui.home;
+package com.example.myandroidapp.presentation.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
